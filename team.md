@@ -1,1 +1,3 @@
 Hello! I'm Xuelin Min, a graduate student at Boston University majoring in Computer Science. I’ve had experience working with various languages like Python, C++, and R, and I love building intelligent and useful systems. 
+
+I'm Tyler, currently pursuing an MS in Software Development. Before coming to BU I completed my BS in Computer Engineering, and I've been working the aerospace industry for about 5 years as a Software Engineer. I've developed a variety of backend systems in Python (most recently) as well as Java/C++ for controlling a variety of computer systems and robots. I've also been dabbling in NodeJS mostly for data visualization.
